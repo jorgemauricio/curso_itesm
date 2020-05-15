@@ -1,5 +1,5 @@
 # Ejercicio
-Para el siguiente ejercicio vamos a ocupar la base de datos que se encuentra en la carpeta `data` con el nombre de `db_rain.csv` la cual contiene los siguientes campos:
+Para el siguiente ejercicio vamos a ocupar la base de datos que se encuentra en la carpeta [LINK](https://drive.google.com/open?id=1JZ8vtFv4W8TaxrWZSGIZSeFyGVLQE_me) con el nombre de `db_rain.csv` la cual contiene los siguientes campos:
 
 * name   : Nombre de la estación agrometeorológica    : object
 * number : Número de la estación agrometeorológica    : int
